@@ -9,6 +9,6 @@
   "author": "",
   "license": "LGPL-3.0",
   "dependencies": {
-    "stylelint": "13.0.0"
+    "stylelint": "13.13.1"
   }
 }
